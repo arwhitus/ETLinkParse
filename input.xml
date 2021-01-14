@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root language="en">
+  <project posX="167" posY="527" href="/en/bdd-territoires/territories/territory/show/eurocite-basque/" countries="FR,ES,AD"><![CDATA[Basque Eurocity]]></project>
+  <project posX="78" posY="532" href="/en/bdd-territoires/territories/territory/show/eurocite-chaves-verin/" countries="ES,PT"><![CDATA[Chaves-Verín Eurocity]]></project>
+  <project posX="64" posY="590" href="/en/bdd-territoires/territories/territory/show/eurocite-badajoz-elvas/" countries="ES,PT"><![CDATA[Badajoz-Elvas Eurocity]]></project>
+  <project posX="175" posY="304" href="/en/bdd-territoires/territories/territory/show/newry-dundalk/" countries="IE,GB"><![CDATA[Newry-Dundalk]]></project>
+  <project posX="259" posY="393" href="/en/bdd-territoires/territories/territory/show/dunkerque-flandre-occidentale-cote-dopale/" countries="FR,BE"><![CDATA[Dunkirk-West Vlaanderen-Côte d'Opale]]></project>
+  <project posX="265" posY="401" href="/en/bdd-territoires/territories/territory/show/eurometropole-lille-kortrijk-tournai/" countries="FR,BE"><![CDATA[Lille-Kortrijk-Tournai Eurometropolis]]></project>
+  <project posX="290" posY="432" href="/en/bdd-territoires/territories/territory/show/pole-europeen-de-developpement-de-longwy/" countries="FR,BE,LU"><![CDATA[Longwy European Development Pole]]></project>
+  <project posX="297" posY="435" href="/en/bdd-territoires/territories/territory/show/alzette-belval/" countries="FR,LU"><![CDATA[Alzette-Belval Ecocity]]></project>
+  <project posX="306" posY="444" href="/en/bdd-territoires/territories/territory/show/eurodistrict-saarmoselle/" countries="FR,DE"><![CDATA[SaarMoselle Eurodistrict]]></project>
+  <project posX="315" posY="453" href="/en/bdd-territoires/territories/territory/show/eurodistrict-strasbourg-ortenau/" countries="FR,DE"><![CDATA[Strasbourg-Ortenau Eurodistrict]]></project>
+  <project posX="308" posY="474" href="/en/bdd-territoires/territories/territory/show/eurodistrict-trinational-de-bale/" countries="FR,DE,CH"><![CDATA[Trinational Eurodistrict Basel]]></project>
+  <project posX="284" posY="499" href="/en/bdd-territoires/territories/territory/show/grand-geneve/" countries="FR,CH"><![CDATA[Greater Geneva]]></project>
+  <project posX="294" posY="484" href="/en/bdd-territoires/territories/territory/show/agglomeration-urbaine-du-doubs/" countries="FR,CH"><![CDATA[Doubs urban agglomeration]]></project>
+  <project posX="297" posY="548" href="/en/bdd-territoires/territories/territory/show/riviera-franco-italo-monegasque/" countries="FR,IT,MC"><![CDATA[Franco-Italo-Monegasque Riviera]]></project>
+  <project posX="302" posY="401" href="/en/bdd-territoires/territories/territory/show/kerkrade-herzogenrath/" countries="DE,NL"><![CDATA[Kerkrade-Herzogenrath]]></project>
+  <project posX="389" posY="328" href="/en/bdd-territoires/territories/territory/show/copenhague-malmoe/" countries="DK,SE"><![CDATA[Copenhagen-Malmö]]></project>
+  <project posX="406" posY="390" href="/en/bdd-territoires/territories/territory/show/francfort-oder-slubice/" countries="DE,PL"><![CDATA[Frankfurt-Slubice]]></project>
+  <project posX="406" posY="397" href="/en/bdd-territoires/territories/territory/show/guben-gubin/" countries="DE,PL"><![CDATA[Guben-Gubin]]></project>
+  <project posX="409" posY="410" href="/en/bdd-territoires/territories/territory/show/goerlitz-zgorzelec/" countries="DE,PL"><![CDATA[Görlitz-Zgorzelec]]></project>
+  <project posX="453" posY="443" href="/en/bdd-territoires/territories/territory/show/cieszyn-cesky-tesin/" countries="CZ,PL"><![CDATA[Cieszyn-Ceský Tesín]]></project>
+  <project posX="445" posY="482" href="/en/bdd-territoires/territories/territory/show/komarno-komarom/" countries="HU,SK"><![CDATA[Komárno-Komárom]]></project>
+  <project posX="455" posY="481" href="/en/bdd-territoires/territories/territory/show/esztergom-sturovo/" countries="HU,SK"><![CDATA[Esztergom-Stúrovo]]></project>
+  <project posX="493" posY="493" href="/en/bdd-territoires/territories/territory/show/oradea-debrecen/" countries="HU,RO"><![CDATA[Oradea-Debrecen]]></project>
+  <project posX="555" posY="554" href="/en/bdd-territoires/territories/territory/show/ruse-giurgiu/" countries="BG,RO"><![CDATA[Ruse-Giurgiu]]></project>
+  <project posX="499" posY="121" href="/en/bdd-territoires/territories/territory/show/haparanda-tornio/" countries="FI,SE"><![CDATA[Haparanda-Tornio]]></project>
+  <project posX="555" posY="203" href="/en/bdd-territoires/territories/territory/show/imatra-svetogorsk/" countries="FI,RU"><![CDATA[Imatra-Svetogorsk]]></project>
+  <project posX="547" posY="246" href="/en/bdd-territoires/territories/territory/show/narva-ivangorod/" countries="EE,RU"><![CDATA[Narva-Ivangorod]]></project>
+  <project posX="530" posY="281" href="/en/bdd-territoires/territories/territory/show/valga-valka/" countries="EE,LV"><![CDATA[Valga-Valka]]></project>
+  <project posX="384" posY="516" href="/en/bdd-territoires/territories/territory/show/gorizia-nova-gorica/" countries="IT,SI"><![CDATA[Gorizia-Nova Gorica]]></project>
+  
+  <project posX="65" posY="522" href="/en/bdd-territoires/territories/territory/show/valenca-tui/" countries="ES,PT"><![CDATA[Valença-Tui]]></project>
+  <project posX="285" posY="391" href="/en/bdd-territoires/territories/territory/show/baarle/" countries="NL,BE"><![CDATA[Baarle]]></project>
+  <project posX="316" posY="382" href="/en/bdd-territoires/territories/territory/show/enschede-gronau/" countries="NL,DE"><![CDATA[Enschede-Gronau]]></project>
+  <project posX="404" posY="364" href="/en/bdd-territoires/territories/territory/show/szczecin/" countries="DE,PL"><![CDATA[Szczecin]]></project>
+  <project posX="330" posY="475" href="/en/bdd-territoires/territories/territory/show/konstanz-kreuzlingen/" countries="DE,CH"><![CDATA[Konstanz-Kreuzlingen]]></project>
+  <project posX="323" posY="510" href="/en/bdd-territoires/territories/territory/show/chiasso-como/" countries="IT,CH"><![CDATA[Chiasso-Como]]></project>
+  <project posX="510" posY="558" href="/en/bdd-territoires/territories/territory/show/calafat-vidin/" countries="BG,RO"><![CDATA[Calafat-Vidin]]></project>
+  
+</root>
