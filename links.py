@@ -17,7 +17,7 @@ for project in root.findall('project'):
     line = '[' + title + '](' + fullLink + ')'
     
     file.write(line)
-    file.write('\n')
+    file.write('\n\n')
     
     print(line)
     count = count + 1
